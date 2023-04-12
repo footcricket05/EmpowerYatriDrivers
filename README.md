@@ -10,9 +10,7 @@ An open initiative to encourage building innovative solutions to solve mobility 
 participate and propose solutions to improve transportation efficiency, affordability, and sustainability.
 The March 2023 edition of the open challenge has 10 challenges across 3 tracks: Future of Mobility, Driver Enablement, and Namma Yatri.
 
-## Driver Empowerment-Skill Development Case Study
-
-## Problem Statement:
+## Problem Statement 3: Skill Development 
 
 Drivers come from all ages. It is generally evident that drivers who are not millennials
 are not very technologically savvy. Despite the advances in technology, the apps and features cannot create

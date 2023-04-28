@@ -33,4 +33,4 @@ To access the case study, simply download or open the PDF file located in the re
 As this repository only contains a single PDF file, there is no scope for external contributions.
 
 ## License
-The content of the case study is protected by copyright laws and cannot be reproduced without the permission of the author.
+This project is licensed under the MIT License. See the LICENSE file for more information.

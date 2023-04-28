@@ -1,21 +1,11 @@
 # Namma Yatri Open Mobility Challenge
 
-## All that you need to know about Namma Yatri Open Mobility Challenge
+## Problem Statement 3: Skill Development
+### The Challenge
+The Namma Yatri Open Mobility Challenge is an open initiative to encourage building innovative solutions to solve mobility issues. In the March 2023 edition of the open challenge, there are 10 challenges across 3 tracks: Future of Mobility, Driver Enablement, and Namma Yatri. The Problem Statement 3 is related to Driver Enablement and focuses on identifying ways to digitally enable drivers, so that they can earn on par with fellow drivers.
 
-Customer-friendly app Namma Yatri is a mobility application built with a vision to effectively contribute to the Open Mobility initiative. The true strength of an open mobility initiative lies in a collective ecosystem of multiple mobility service providers to coexist on a common standard network. This allows for enhanced choice for customers to avail the benefits of a truly multi-modal offering. The application has been built on the Beckn Protocol which is an open-source protocol.
-
-## What is Open Mobility Challenge?
-
-An open initiative to encourage building innovative solutions to solve mobility issues. Citizens can
-participate and propose solutions to improve transportation efficiency, affordability, and sustainability.
-The March 2023 edition of the open challenge has 10 challenges across 3 tracks: Future of Mobility, Driver Enablement, and Namma Yatri.
-
-## Problem Statement 3: Skill Development 
-
-Drivers come from all ages. It is generally evident that drivers who are not millennials
-are not very technologically savvy. Despite the advances in technology, the apps and features cannot create
-value unless they are widely adopted by the drivers. Identify ways to digitally enable drivers, so that they
-can earn on par with fellow drivers.
+### The Problem
+Drivers come from all ages, and it is generally evident that drivers who are not millennials are not very technologically savvy. Despite the advances in technology, the apps and features cannot create value unless they are widely adopted by the drivers. The challenge is to identify solutions to overcome the following problems:
 
 ● Driver's resistance to change.
 
@@ -27,3 +17,15 @@ can earn on par with fellow drivers.
 
 ● Lack of accountability and monitoring systems.
 
+## Solution
+The solution for the problem statement involved identifying and addressing the challenges faced by drivers who are not technologically savvy. The project proposes the development of a user-friendly app that can help drivers access the required information and training easily. The app can include features like language support, engaging content, and monitoring systems to ensure that drivers can learn and earn better.
+
+
+## Usage
+To access the case study, simply download or open the PDF file located in the repository.
+
+## Contributing
+As this repository only contains a single PDF file, there is no scope for external contributions.
+
+## License
+The content of the case study is protected by copyright laws and cannot be reproduced without the permission of the author.

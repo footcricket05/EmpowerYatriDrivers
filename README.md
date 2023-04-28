@@ -17,6 +17,11 @@ Drivers come from all ages, and it is generally evident that drivers who are not
 
 ● Lack of accountability and monitoring systems.
 
+
+## The Goal
+The goal of this challenge is to find innovative solutions to digitally enable drivers and make them technologically savvy. The solutions should be focused on creating engaging and user-friendly content/training that is easily accessible and understandable to drivers of all ages and backgrounds. The solutions should also address the language barriers and make the training available in multiple languages. Additionally, the solutions should focus on creating viable business models and incorporate accountability and monitoring systems to ensure that the drivers are able to earn on par with their fellow drivers.
+
+
 ## Solution
 The solution for the problem statement involved identifying and addressing the challenges faced by drivers who are not technologically savvy. The project proposes the development of a user-friendly app that can help drivers access the required information and training easily. The app can include features like language support, engaging content, and monitoring systems to ensure that drivers can learn and earn better.
 
